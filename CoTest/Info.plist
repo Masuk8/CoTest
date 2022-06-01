@@ -4,6 +4,11 @@
 <dict>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
+		<key>Authentication Params</key>
+		<dict>
+			<key>ENVIRONMENT_URL</key>
+			<string></string>
+		</dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
 		<key>UISceneConfigurations</key>
@@ -20,6 +25,8 @@
 				</dict>
 			</array>
 		</dict>
+		<key>UIApplicationSupportsTabbedSceneCollection</key>
+		<false/>
 	</dict>
 </dict>
 </plist>
